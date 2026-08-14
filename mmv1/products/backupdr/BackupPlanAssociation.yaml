@@ -66,13 +66,9 @@ parameters:
     type: String
     required: true
     url_param_only: true
-<<<<<<< Updated upstream
-    description: The id of backupplan association
-=======
     immutable: true
     description: |-
       The id of backupplan association
->>>>>>> Stashed changes
 properties:
   - name: resource
     type: String
